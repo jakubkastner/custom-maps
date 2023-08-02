@@ -1,0 +1,86 @@
+housei001:4131557@[MeshObject]
+	MeshName	=	Data/objects/buildings/housei.msh
+housei_interior001:4131568@[MeshObject]
+	MeshName	=	Data/objects/buildings/housei_interior.msh
+doorb300d001:4131569@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/doorb300d.msh
+windowb240d010:4131580@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowb240d.msh
+windowb240e001:4131581@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowb240e.msh
+signd001:4131599@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd002:4131600@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+windowc220a001:4131784@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowc220a.msh
+windowc220a002:4131787@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowc220a.msh
+barna_platform007:4131793@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform008:4131794@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform009:4131795@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform010:4131796@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform011:4131797@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform012:4131798@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform013:4131799@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform015:4131801@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform016:4131802@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform017:4131803@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform019:4131805@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform020:4131806@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+plankbigshort001:4131814@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+barna_platform021:4131823@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform022:4131824@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform023:4131825@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform024:4131826@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform026:4131828@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform027:4131829@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform029:4131831@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform030:4131832@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform031:4131833@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform032:4131834@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform033:4131835@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform034:4131836@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform035:4131837@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform036:4131838@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+door_blacksmith027:4170240@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith028:4170241@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith029:4170242@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+cratemedium078:4173613@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+benchc002:4173737@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchc.msh
+signl001:4173800@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signl.msh
+crate081:4202788@[MeshObject]
+	MeshName	=	Data/objects/crate.msh

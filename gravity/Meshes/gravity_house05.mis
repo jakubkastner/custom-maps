@@ -1,0 +1,82 @@
+windowb180a010:3968008@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowb180a.msh
+window180shuttera015:3968013@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window180shuttera.msh
+window180shuttera016:3968014@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window180shuttera.msh
+housef002:3968015@[MeshObject]
+	MeshName	=	Data/Objects/Buildings/housef.msh
+windowb240d008:3968021@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowb240d.msh
+window240shuttera015:3968030@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window240shuttera.msh
+window240shuttera016:3968031@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window240shuttera.msh
+windowb240d009:3968032@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowb240d.msh
+window240shuttera017:3968033@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window240shuttera.msh
+window240shuttera018:3968034@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window240shuttera.msh
+signA002:3968043@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/signA.msh
+windowa180a003:3968044@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowa180a.msh
+windowdoublec240b003:4075776@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowdoublec240b.msh
+windowdoublec240b004:4075777@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowdoublec240b.msh
+doordoubleb300a004:4075778@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/doordoubleb300a.msh
+housef_interior001:4085380@[MeshObject]
+	MeshName	=	Data/Objects/Buildings/housef_interior.msh
+cabinet005:4133669@[MeshObject]
+	MeshName	=	Data/objects/furniture/cabinet.msh
+cabinet006:4133670@[MeshObject]
+	MeshName	=	Data/objects/furniture/cabinet.msh
+cabinet007:4133671@[MeshObject]
+	MeshName	=	Data/objects/furniture/cabinet.msh
+cabinet008:4133672@[MeshObject]
+	MeshName	=	Data/objects/furniture/cabinet.msh
+cabinet009:4133673@[MeshObject]
+	MeshName	=	Data/objects/furniture/cabinet.msh
+barndoorupper043:4133674@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper044:4133675@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper045:4133676@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper046:4133677@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+wardrobe005:4136976@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe006:4136977@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe007:4136978@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe008:4136979@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe009:4136980@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe010:4136981@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe011:4136982@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe012:4136983@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe013:4136984@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+wardrobe014:4136985@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+crate022:4140173@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate023:4140174@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate024:4140175@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge162:4140179@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate025:4140180@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate051:4153132@[MeshObject]
+	MeshName	=	Data/objects/crate.msh

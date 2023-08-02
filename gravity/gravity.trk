@@ -1,0 +1,22 @@
+!include("Track.def")
+
+Group("skirmish")
+{
+   Objects("data/mapsnet/gravity/skirmish.eds")
+   MapTitle("Gravity")
+   ModeName("&MP_MODE_skirmish&")
+   ModeInfo("&MP_MAP_skirmish_info&
+
+                                                          Made by QuA and WuA")
+   BackgroundPicture("GoldHotel.png")
+}
+Group("deathmatch")
+{
+   Objects("data/mapsnet/gravity/deathmatch.eds")
+   MapTitle("Gravity")
+   ModeName("&MP_MODE_deathmatch&")
+   ModeInfo("&MP_MAP_deathmatch_info&
+
+                                                          Made by QuA and WuA")
+   BackgroundPicture("GoldHotel.png")
+}

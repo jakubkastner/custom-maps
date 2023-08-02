@@ -1,0 +1,16 @@
+door_barn_right015:4150899@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+door_barn_right016:4150900@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+door_barn_left014:4150901@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+cratehuge184:4150945@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate049:4150946@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium062:4150947@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+door_barn_left015:4150949@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+cratehuge185:4150950@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh

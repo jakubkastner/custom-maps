@@ -1,0 +1,114 @@
+housesmallc002:4098104@[MeshObject]
+	MeshName	=	Data/Objects/Buildings/housesmallc.msh
+windowa240b005:4098105@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowa240b.msh
+windowa240b006:4098107@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/windowa240b.msh
+signA007:4098108@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/signA.msh
+barndoorupper054:4134001@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper055:4134002@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper056:4134003@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+signd009:4134004@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd010:4134005@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+barndoorupper057:4134006@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper058:4134007@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper059:4134008@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper060:4134009@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+doorb300b002:4134012@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/doorb300b.msh
+barndoorupper061:4134013@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper062:4134014@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper063:4134339@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper064:4134340@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper065:4134341@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper066:4134342@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper067:4134343@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper068:4134344@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper069:4134345@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper070:4134346@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper071:4134347@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper072:4134348@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper073:4134349@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+door_blacksmith001:4134351@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith002:4134352@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith003:4134353@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith004:4134354@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith005:4134355@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith006:4134356@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith007:4134357@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith008:4134358@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith009:4134361@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith010:4134362@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith011:4134363@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith012:4134364@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_barn_right001:4134716@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+door_privy001:4134717@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_privy.msh
+door_barn_left001:4134722@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+door_barn_right002:4134727@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+piano001:4134729@[MeshObject]
+	MeshName	=	Data/objects/piano.msh
+cratehuge157:4134731@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge158:4134732@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+santamaria001:4134733@[MeshObject]
+	MeshName	=	Data/objects/santamaria.msh
+door_barn_left003:4134740@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+door_barn_left004:4134741@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+door_barn_left005:4134742@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+crate020:4134744@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate040:4148930@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate052:4153894@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge191:4153924@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate057:4153936@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratesmall006:4153969@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+signe007:4155511@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signe.msh

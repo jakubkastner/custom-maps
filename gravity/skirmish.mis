@@ -1,0 +1,81 @@
+Dot009:4219686@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/Interface/Dot.3DA
+Dot010:4219687@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/Interface/Dot.3DA
+Dot011:4219688@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/Interface/Dot.3DA
+Dot012:4219689@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/Interface/Dot.3DA
+Dot013:4219690@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot014:4219691@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/Interface/Dot.3DA
+dot014:4219692@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/interface/dot.3da
+Dot015:4219693@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/Interface/Dot.3DA
+dot015:4219694@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/interface/dot.3da
+Dot016:4219695@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/Interface/Dot.3DA
+dot016:4219696@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/interface/dot.3da
+dot017:4219697@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/interface/dot.3da
+dot018:4219698@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/interface/dot.3da
+dot019:4219699@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/interface/dot.3da
+dot020:4219700@[SpawnPoint]
+	cTeam	=	_BLUE
+	MeshName	=	Data/interface/dot.3da
+dot021:4219701@[SpawnPoint]
+	cTeam	=	_RED
+	MeshName	=	Data/interface/dot.3da
+GameModeSkirmish001:4219710@[GameModeSkirmish]
+	nDeathLimitBLUE	=	2
+	nDeathLimitRED	=	2
+	[aOnDeathLimitOutBLUE:0] act_Music001:4219702@[act_Music]
+		fFadeOutTime	=	0.000000
+		cType	=	_STOP
+		fDelay	=	3.000000
+	[aOnDeathLimitOutBLUE:1] act_Wait001:4219703@[act_Wait]
+		fDelay	=	3.000000
+	[aOnDeathLimitOutBLUE:2] actnet_FinishRoundTeam001:4219704@[actnet_FinishRoundTeam]
+		eTeamWinner	=	_RED
+	[aOnDeathLimitOutRED:0] act_Music002:4219705@[act_Music]
+		fFadeOutTime	=	0.000000
+		cType	=	_STOP
+		fDelay	=	0.000000
+	[aOnDeathLimitOutRED:1] act_Wait002:4219706@[act_Wait]
+		fDelay	=	3.000000
+	[aOnDeathLimitOutRED:2] actnet_FinishRoundTeam002:4219707@[actnet_FinishRoundTeam]
+		eTeamWinner	=	_BLUE
+	fTimeFromStartRoundToSpawn	=	-1.000000
+	eWinnerWhenRoundTimePasses	=	_RED
+	[aOnPlayerKilledBLUE:0] actnet_AddTeamPoints001:4219708@[actnet_AddTeamPoints]
+		eTeam	=	_RED
+		sValue	=	2
+	[aOnPlayerKilledRED:0] actnet_AddTeamPoints002:4219709@[actnet_AddTeamPoints]
+		eTeam	=	_RED
+		sValue	=	2
+	nRoundsLimit	=	50
+	nRoundsResultLimit	=	10
+	[aOnPlayerSuicide:0] actnet_Message01:4219738@[actnet_Message]
+		sText	=	One noob is too scared to play!
+	fRespawnTime	=	3.000000
+	bUseFirstAid	=	1

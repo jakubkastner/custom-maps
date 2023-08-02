@@ -1,0 +1,162 @@
+
+// Water
+
+VarVec4( "vwatercolor", [0.28627499938011169000, 0.34901997447013855000, 0.40392193198204041000, 0.50000000000000000000] )
+VarString( "txwaterplantmask", "DefaultTexture.dds" )
+VarString( "txwaterplant", "DefaultTexture.dds" )
+VarString( "txwaterborder", "Waterborder_T.dds" )
+VarInt( "iusewaterwavesnumber", 3 )
+VarInt( "iusewaterspecular", 1 )
+VarInt( "iusewaterreflection", 1 )
+VarInt( "iusewaterfresnel", 1 )
+VarInt( "iusewaterborder", 1 )
+VarFloat( "fwaterwaver2speed", 0.14999997615814209000 )
+VarFloat( "fwaterwaver2scaley", 0.00299999956041574480 )
+VarFloat( "fwaterwaver2scalex", 0.00299999956041574480 )
+VarFloat( "fwaterwaver2rotation", 10.59999942779541000000 )
+VarFloat( "fwaterwaver1speed", 0.09999999403953552200 )
+VarFloat( "fwaterwaver1scaley", 0.00099999981466680765 )
+VarFloat( "fwaterwaver1scalex", 0.00099999981466680765 )
+VarFloat( "fwaterwaver1rotation", -10.59999942779541000000 )
+VarFloat( "fwaterwave2speedy", -0.00999999977648258210 )
+VarFloat( "fwaterwave2speedx", -0.01999999955296516400 )
+VarFloat( "fwaterwave2scaley", 0.00000000000000000000 )
+VarFloat( "fwaterwave2scalex", 0.00019999998039565980 )
+VarFloat( "fwaterwave1speedy", 0.00999999977648258210 )
+VarFloat( "fwaterwave1speedx", 0.01999999955296516400 )
+VarFloat( "fwaterwave1scaley", 0.00009999999019782990 )
+VarFloat( "fwaterwave1scalex", 0.00009999999019782990 )
+VarFloat( "fwaterrefldeformpower", 299.99996948242187000000 )
+VarFloat( "fwaterplantsdeformpower", 0.02499999664723873100 )
+VarFloat( "fwaterdepth", 2.99999952316284180000 )
+VarFloat( "fwaterbaseopacity", 0.59999996423721313000 )
+VarFloat( "fwaterbaseambient", 0.50000000000000000000 )
+
+// Undergrowth
+
+VarString( "txgrasscolormap", "GrassColormap_gravity.dds" )
+VarFloat( "fgrasscolormapscaley", 0.00001399999837303767 )
+VarFloat( "fgrasscolormapscalex", 0.00001399999837303767 )
+VarFloat( "fgrasscolormapoffsety", 0.00000000000000000000 )
+VarFloat( "fgrasscolormapoffsetx", 0.00000000000000000000 )
+
+// Terrain
+
+VarVec4( "vterraindetail1", [0.61176490783691406000, 0.58431386947631836000, 0.52941191196441650000, 1.00000000000000000000] )
+VarVec4( "vterraindetail0", [0.59215694665908813000, 0.59215694665908813000, 0.47058793902397156000, 1.00000000000000000000] )
+VarVec4( "vterraincliff", [0.72941201925277710000, 0.64705908298492432000, 0.59215700626373291000, 0.94999992847442627000] )
+VarVec4( "vhorizoncolor", [0.64999991655349731000, 0.69999992847442627000, 0.91000002622604370000, 1.00000000000000000000] )
+VarString( "txterrainlightmap", "TerrainLightmap_gravity.dds" )
+VarString( "txterraindetail1", "GroundGravel.dds" )
+VarString( "txterraindetail0", "GroundGravelB.dds" )
+VarString( "txterraincolor", "TerrainColor_gravity.dds" )
+VarString( "txterraincliff", "CliffStoneF.dds" )
+VarFloat( "ftopdetailsize", 0.00264999992214143280 )
+VarFloat( "fsidedetailsize", -0.00073999998858198524 )
+VarFloat( "fdetailsborder", 0.65999996662139893000 )
+
+// Sky
+
+VarString( "txskysunface", "SunFaceA.dds" )
+VarString( "txskyhorizonquater4", "HorizonMountains4_gravity.dds" )
+VarString( "txskyhorizonquater3", "HorizonMountains3_gravity.dds" )
+VarString( "txskyhorizonquater2", "HorizonMountains2_gravity.dds" )
+VarString( "txskyhorizonquater1", "HorizonMountains1_gravity.dds" )
+VarString( "txskycloudsl2", "SkyCloudsL2_gravity.dds" )
+VarString( "txskycloudsl1", "SkyCloudsL1_gravity.dds" )
+VarString( "txskycloudsl0", "SkyCloudsL0_gravity.dds" )
+VarFloat( "iskysunfacedeformspeed", -0.04999999701976776100 )
+VarInt( "iskysunfacedeform", 0 )
+VarFloat( "fskysunscale", 0.01149999909102916700 )
+VarFloat( "fskysunfacedeformscaley", 0.29999995231628418000 )
+VarFloat( "fskysunfacedeformscalex", 0.09999999403953552200 )
+VarFloat( "fskysunfacedeformpower", 0.04999999701976776100 )
+VarFloat( "fskyhorizonscalev", 90.00000000000000000000 )
+VarFloat( "fskyhorizonscaleh", 239.99996948242187000000 )
+VarFloat( "fskycloudsl2speed", 0.00099999981466680765 )
+VarFloat( "fskycloudsl2scale", 2.99999952316284180000 )
+VarFloat( "fskycloudsl1speed", 0.00499999988824129100 )
+VarFloat( "fskycloudsl1scale", 3.49999976158142090000 )
+VarFloat( "fskycloudsl0speed", 0.00999999977648258210 )
+VarFloat( "fskycloudsl0scale", 4.00000000000000000000 )
+
+// Scattering HDR
+
+VarVec3( "vscatteringrayleighcolorhdr", [0.03999999910593032800, 0.06399998813867569000, 0.12300001084804535000] )
+VarVec3( "vscatteringmiecolorhdr", [0.14999997615814209000, 0.09999999403953552200, 0.03399999439716339100] )
+VarFloat( "fskyscalehdr", 90.00000000000000000000 )
+VarFloat( "fscatteringzfactorhdr", 0.00172899954486638310 )
+VarFloat( "fscatteringrayleighscalehdr", 0.05999999120831489600 )
+VarFloat( "fscatteringrayleighintensityhdr", 29.99999618530273400000 )
+VarFloat( "fscatteringmiescalehdr", 0.09999999403953552200 )
+VarFloat( "fscatteringmieintensityhdr", 1.00000000000000000000 )
+VarFloat( "fscatteringgfactorhdr", 0.90000003576278687000 )
+
+// Scattering
+
+VarVec3( "vscatteringrayleighcolor", [0.03999999910593032800, 0.06399998813867569000, 0.12300001084804535000] )
+VarVec3( "vscatteringmiecolor", [0.14999997615814209000, 0.09999999403953552200, 0.03399999439716339100] )
+VarFloat( "fskyscale", 35.00000762939453100000 )
+VarFloat( "fscatteringzfactor", 0.00172899954486638310 )
+VarFloat( "fscatteringrayleighscale", 0.05999999120831489600 )
+VarFloat( "fscatteringrayleighintensity", 21.99999427795410200000 )
+VarFloat( "fscatteringmiescale", 0.09999999403953552200 )
+VarFloat( "fscatteringmieintensity", 1.00000000000000000000 )
+VarFloat( "fscatteringgfactor", 0.90000003576278687000 )
+
+// Reflections
+
+VarString( "txcurrentcubemap", "WorldCubemap_gravity.dds" )
+
+// Prototype
+
+VarFloat( "fwireopacity_pt", 0.09999999403953552200 )
+VarFloat( "fterraincoloropacity_pt", 1.00000000000000000000 )
+VarFloat( "fspecularopacity_pt", 1.00000000000000000000 )
+VarFloat( "fshadowmapopacity_pt", 1.00000000000000000000 )
+VarFloat( "fscatteringopacity_pt", 1.00000000000000000000 )
+VarFloat( "fnormalopacity_pt", 0.00000000000000000000 )
+VarFloat( "flightmapopacity_pt", 1.00000000000000000000 )
+VarFloat( "flightingopacity_pt", 1.00000000000000000000 )
+VarFloat( "fheightmapopacity_pt", 0.00000000000000000000 )
+VarFloat( "fheightmapmin_pt", 0.00000000000000000000 )
+VarFloat( "fheightmapmax_pt", 5359.99951171875000000000 )
+VarFloat( "fgridscale_pt", 99.99996948242187500000 )
+VarFloat( "fgridopacity_pt", 0.00000000000000000000 )
+VarFloat( "fdiffuseopacity_pt", 1.00000000000000000000 )
+VarFloat( "fdetailstopopacity_pt", 1.00000000000000000000 )
+VarFloat( "fdetailssideopacity_pt", 1.00000000000000000000 )
+VarFloat( "fcliffmaskopacity_pt", 0.00000000000000000000 )
+
+// Postprocess
+
+VarVec4( "vglowparams", [1.64999711513519290000, 4.59999608993530270000, 0.00000000000000000000, 1.19999980926513670000] )
+VarVec4( "vcolorparams", [0.79999995231628418000, 4.59999990463256840000, 0.00000000000000000000, 0.50000000000000000000] )
+
+// Lighting
+
+VarVec3( "vsunshadowdir", [0.55667036771774292000, 0.76604449748992920000, 0.32139378786087036000] )
+VarVec3( "vsundir", [0.55667036771774292000, 0.76604449748992920000, 0.32139378786087036000] )
+VarVec4( "vsuncolor", [1.00000000000000000000, 0.86666685342788696000, 0.71372604370117188000, 1.00000000000000000000] )
+VarVec4( "vambient", [0.10980399698019028000, 0.14117598533630371000, 0.20784300565719604000, 1.00000000000000000000] )
+VarString( "txglossdefault", "GlossDefault.dds" )
+
+// HDR
+
+VarFloat( "fmidzone", 0.25999996066093445000 )
+VarFloat( "fhdrwhiteluminance", 0.79999995231628418000 )
+VarFloat( "fhdrsunintensity", 1.00000000000000000000 )
+VarFloat( "fhdrskyintensity", 1.00000000000000000000 )
+VarFloat( "fhdrselfilluminationintensity", 14.99999809265136700000 )
+VarFloat( "fhdrlightsintensity", 1.00000000000000000000 )
+VarFloat( "fhdrglowthreshold", 0.00000000000000000000 )
+VarFloat( "fhdrblendweight", 0.09999999403953552200 )
+VarFloat( "fhdrambientintensity", 1.00000000000000000000 )
+VarFloat( "fdeltahdr", 0.00999999977648258210 )
+
+// Atmosphere
+
+VarVec3( "vwindinitialdir", [0.00000000000000000000, 0.00000000000000000000, 1.00000000000000000000] )
+VarVec3( "vfogcolor", [0.45097997784614563000, 0.34509798884391785000, 0.31764701008796692000] )
+VarFloat( "fwindpower", 1.00000000000000000000 )
+

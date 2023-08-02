@@ -1,0 +1,2088 @@
+SunHelper001:47778@[GLLightEditorObject]
+	MeshName	=	Data/interface/light.3da
+housesmallb001:219376@[MeshObject]
+	MeshName	=	Data/Objects/Buildings/housesmallb.msh
+signA006:219402@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/signA.msh
+signA004:219403@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/signA.msh
+billboardb001:1265129@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/billboardb.msh
+billboard_pole001:1265130@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/billboard_pole.msh
+window240shuttera005:1420200@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/window240shuttera.msh
+barrelclosed003:3963681@[MeshObject]
+	MeshName	=	Data/Objects/barrelclosed.msh
+barrelclosed004:3963683@[MeshObject]
+	MeshName	=	Data/Objects/barrelclosed.msh
+cratehuge052:3971717@[MeshObject]
+	MeshName	=	Data/Objects/cratehuge.msh
+housee_interior002:4085378@[MeshObject]
+	MeshName	=	Data/Objects/Buildings/housee_interior.msh
+nighttable001:4085407@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable004:4085410@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable005:4085411@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable006:4085412@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable009:4085415@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable010:4085416@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable011:4085417@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+nighttable012:4085418@[MeshObject]
+	MeshName	=	Data/Objects/Furniture/nighttable.msh
+railingb003:4085427@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/railingb.msh
+railingb005:4085429@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/railingb.msh
+railingb006:4085430@[MeshObject]
+	MeshName	=	Data/Objects/BuildingDetails/railingb.msh
+SoundEmitterRandomMesange001:4090090@[SoundEmitterRandom]
+	sSoundPath	=	Data/Sounds/Ambient/birds/lonely_trees/
+	sSounds	=	mesange_01.ogg;mesange_02.ogg;mesange_03.ogg
+	fMinTimeBetweenSounds	=	20.000000
+	fMaxTimeBetweenSounds	=	25.000000
+	fMinDistance	=	350.000000
+	fVolume	=	0.700000
+SoundEmitterRandomPinson001:4090135@[SoundEmitterRandom]
+	sSoundPath	=	Data/Sounds/Ambient/birds/lonely_trees/
+	sSounds	=	pinson_01.ogg;pinson_02.ogg
+	fMinTimeBetweenSounds	=	20.000000
+	fMaxTimeBetweenSounds	=	25.000000
+	fMinDistance	=	350.000000
+	fVolume	=	0.700000
+SoundEmitterRandomPinson002:4090137@[SoundEmitterRandom]
+	sSoundPath	=	Data/Sounds/Ambient/birds/lonely_trees/
+	sSounds	=	pinson_01.ogg;pinson_02.ogg
+	fMinTimeBetweenSounds	=	20.000000
+	fMaxTimeBetweenSounds	=	25.000000
+	fMinDistance	=	350.000000
+	fVolume	=	0.700000
+SoundEmitterRandomMesange003:4090141@[SoundEmitterRandom]
+	sSoundPath	=	Data/Sounds/Ambient/birds/lonely_trees/
+	sSounds	=	mesange_01.ogg;mesange_02.ogg;mesange_03.ogg
+	fMinTimeBetweenSounds	=	20.000000
+	fMaxTimeBetweenSounds	=	25.000000
+	fMinDistance	=	350.000000
+	fVolume	=	0.700000
+cratehuge127:4099650@[MeshObject]
+	MeshName	=	Data/Objects/cratehuge.msh
+cratehuge128:4099651@[MeshObject]
+	MeshName	=	Data/Objects/cratehuge.msh
+cratehuge129:4099652@[MeshObject]
+	MeshName	=	Data/Objects/cratehuge.msh
+cratehuge151:4101889@[MeshObject]
+	MeshName	=	Data/Objects/cratehuge.msh
+cratemedium033:4101890@[MeshObject]
+	MeshName	=	Data/Objects/cratemedium.msh
+cratemedium035:4101894@[MeshObject]
+	MeshName	=	Data/Objects/cratemedium.msh
+healthbottle001:4120470@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+healthbottle003:4120499@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+shadowbox003:4129872@[WaterCurrent]
+	m_fSpeed	=	20.000000
+	m_fTorpidity	=	1.000000
+	m_bEnableFXRings	=	1
+	MeshName	=	Data/interface/shadowbox.3da
+shadowbox004:4131313@[WaterCurrent]
+	m_fSpeed	=	20.000000
+	MeshName	=	Data/interface/shadowbox.3da
+househutc002:4131556@[MeshObject]
+	MeshName	=	Data/objects/buildings/househutc.msh
+barna_platform004:4131577@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform005:4131578@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform006:4131579@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+rake001:4131591@[MeshObject]
+	MeshName	=	Data/objects/rake.msh
+bilboarda003:4131601@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/bilboarda.msh
+rake002:4131602@[MeshObject]
+	MeshName	=	Data/objects/rake.msh
+billboardb002:4131620@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/billboardb.msh
+plank002:4131635@[MeshObject]
+	MeshName	=	Data/objects/plank.msh
+barna_platform018:4131804@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform025:4131827@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+ladderhookb001:4131845@[Ladder]
+	MeshName	=	Data/objects/ladderhookb.msh
+ladderhooka002:4131852@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+barndoorupper004:4132199@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper005:4132200@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper008:4132425@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+windowb240f002:4132428@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowb240f.msh
+windowb240f003:4132429@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowb240f.msh
+ladderhooka003:4132634@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+windowd240e001:4132639@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowd240e.msh
+windowd240e002:4132640@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowd240e.msh
+barna_platform068:4132641@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform069:4132642@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform070:4132643@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform071:4132644@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform072:4132645@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform073:4132646@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform074:4132647@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+barna_platform075:4132648@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barna_platform.msh
+ladderhooka004:4132649@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+ladderhooka005:4132650@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+barndoorupper009:4132654@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+barndoorupper010:4132655@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+cratemedium036:4132912@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+churchcross001:4132922@[MeshObject]
+	MeshName	=	Data/objects/churchcross.msh
+log001:4132925@[MeshObject]
+	MeshName	=	Data/objects/log.msh
+gravea002:4132926@[MeshObject]
+	MeshName	=	Data/objects/gravea.msh
+carpeta001:4132927@[MeshObject]
+	MeshName	=	Data/objects/carpeta.msh
+benchd001:4132928@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchd.msh
+cabinetsmall001:4132929@[Locker]
+	sDoorElementMask	=	drawer
+	MeshName	=	Data/objects/furniture/cabinetsmall.msh
+shelfdouble001:4132936@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+tablec001:4132938@[MeshObject]
+	MeshName	=	Data/objects/furniture/tablec.msh
+pickaxe001:4132949@[MeshObject]
+	MeshName	=	Data/objects/pickaxe.msh
+plateceramic001:4132952@[MeshObject]
+	MeshName	=	Data/objects/plateceramic.msh
+chesta001:4132962@[MeshObject]
+	MeshName	=	Data/objects/chesta.msh
+churchauditorium001:4132963@[MeshObject]
+	MeshName	=	Data/objects/churchauditorium.msh
+crossa001:4132964@[MeshObject]
+	MeshName	=	Data/objects/crossa.msh
+mug001:4132975@[MeshObject]
+	MeshName	=	Data/objects/mug.msh
+pan001:4132978@[MeshObject]
+	MeshName	=	Data/objects/pan.msh
+carpetb001:4133000@[MeshObject]
+	MeshName	=	Data/objects/carpetb.msh
+cratehuge155:4133010@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge156:4133013@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium037:4133336@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+windowd240b001:4133629@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/windowd240b.msh
+barndoorupper038:4133660@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barndoorupper.msh
+signd003:4133667@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd004:4133668@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd005:4133680@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd006:4133683@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd007:4133997@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+signd008:4133998@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+ladderhooka006:4134365@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+ladderhookc001:4134723@[Ladder]
+	MeshName	=	Data/objects/ladderhookc.msh
+cratemedium039:4134734@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+ladderhookc002:4134737@[Ladder]
+	MeshName	=	Data/objects/ladderhookc.msh
+crate019:4134743@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+barnb_platforms001:4135459@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/barnb_platforms.msh
+clock001:4136201@[LawmanASP]
+	m_fMass	=	20.000000
+	MeshName	=	Data/objects/clock.msh
+coalcar001:4136203@[Ladder]
+	MeshName	=	Data/objects/coalcar.msh
+medalionlow001:4136204@[CModelObject]
+	MeshName	=	Data/objects/medalionlow.msh
+gatling001:4136206@[MeshObject]
+	MeshName	=	Data/objects/gatling.msh
+ammogauge001:4136208@[AmmoShotgun]
+	MeshName	=	Data/objects/ammogauge.msh
+ammogauge002:4136210@[AmmoShotgun]
+	MeshName	=	Data/objects/ammogauge.msh
+remington001:4136227@[WeaponRifleRemington]
+	MeshName	=	Data/player/equipment/remington/remington.msh
+stacks001:4136993@[MeshObject]
+	MeshName	=	Data/objects/furniture/stacks.msh
+stacks002:4136994@[MeshObject]
+	MeshName	=	Data/objects/furniture/stacks.msh
+cemeterysign001:4136995@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+churchauditorium002:4136996@[MeshObject]
+	MeshName	=	Data/objects/churchauditorium.msh
+benchd002:4136997@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchd.msh
+benchd003:4136998@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchd.msh
+benchd004:4136999@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchd.msh
+ray001:4137000@[Ladder]
+	MeshName	=	Data/player/ray/ray.msh
+raycap001:4137001@[CModelObject]
+	MeshName	=	Data/player/ray/raycap.msh
+pickaxe002:4137002@[MeshObject]
+	MeshName	=	Data/objects/pickaxe.msh
+bed002:4137005@[MeshObject]
+	MeshName	=	Data/objects/furniture/bed.msh
+wanted001:4137008@[MeshObject]
+	MeshName	=	Data/objects/wanted.msh
+map001:4137010@[Ladder]
+	MeshName	=	Data/objects/map.msh
+chesta002:4137887@[MeshObject]
+	MeshName	=	Data/objects/chesta.msh
+remington002:4137904@[WeaponRifleRemington]
+	MeshName	=	Data/player/equipment/remington/remington.msh
+ammogauge003:4137905@[AmmoShotgun]
+	MeshName	=	Data/objects/ammogauge.msh
+ammogauge004:4137907@[AmmoShotgun]
+	MeshName	=	Data/objects/ammogauge.msh
+volcanic001:4137912@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+volcanic002:4137913@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+derringer001:4137917@[WeaponPistolDerringer]
+	nStartAmmoCount	=	2
+	bPhysicsDisableUntilTake	=	1
+	MeshName	=	Data/player/equipment/derringer/derringer.msh
+cogswell001:4138345@[WeaponPistolCogswell]
+	MeshName	=	Data/player/equipment/cogswell/cogswell.msh
+cogswell002:4138346@[WeaponPistolCogswell]
+	MeshName	=	Data/player/equipment/cogswell/cogswell.msh
+carconnector001:4139217@[MeshObject]
+	MeshName	=	Data/objects/train/carconnector.msh
+barreltnt001:4139223@[MeshObject]
+	MeshName	=	Data/objects/barreltnt.msh
+carpetb002:4139226@[MeshObject]
+	MeshName	=	Data/objects/carpetb.msh
+cowskull001:4139227@[MeshObject]
+	MeshName	=	Data/objects/cowskull.msh
+door_barn_right006:4139233@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+cratehuge161:4139239@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+haycube001:4139685@[MeshObject]
+	MeshName	=	Data/objects/haycube.msh
+rock001:4139694@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rocksharpa001:4139695@[MeshObject]
+	MeshName	=	Data/nature/rocksharpa.msh
+churchcross002:4139716@[MeshObject]
+	MeshName	=	Data/objects/churchcross.msh
+rock002:4139720@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+coffin#001:4140168@[MeshObject]
+	MeshName	=	Data/objects/coffin#01.msh
+chest001:4140170@[MeshObject]
+	MeshName	=	Data/objects/chest.msh
+crossb001:4140176@[MeshObject]
+	MeshName	=	Data/objects/crossb.msh
+cactusb001:4140177@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/cactusb.msh
+SoundEmitterSimple001:4141592@[SoundEmitterSimple]
+	sSoundName	=	Data/mapsnet/gravity/music/cojaigetsinformed.ogg
+	fMinDistance	=	30.000000
+	fVolume	=	0.700000
+SoundEmitterSimple002:4141594@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/ai/banditburning.wav
+	fMinDistance	=	30.000000
+	fVolume	=	1.000000
+door_barn_right007:4144925@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+billboardb003:4144927@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/billboardb.msh
+plankbigshort002:4144933@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+crate035:4144941@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crossbig001:4144960@[MeshObject]
+	MeshName	=	Data/objects/crossbig.msh
+gravea003:4144961@[MeshObject]
+	MeshName	=	Data/objects/gravea.msh
+carpeta002:4144962@[MeshObject]
+	MeshName	=	Data/objects/carpeta.msh
+door_blacksmith013:4145466@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith014:4145467@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith015:4145468@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith016:4145469@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+chimneya001:4145474@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/chimneya.msh
+door_blacksmith017:4145481@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith018:4145482@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_barn_left009:4145483@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+door_blacksmith019:4145484@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+wagona001:4145492@[MeshObject]
+	MeshName	=	Data/objects/wagona.msh
+cratemedium050:4145493@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratesmall002:4145499@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+cratehuge173:4147010@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge174:4147038@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate036:4147039@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate037:4147040@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium051:4147041@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratemedium052:4147043@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+framej001:4147057@[MeshObject]
+	MeshName	=	Data/objects/framej.msh
+framel002:4147060@[MeshObject]
+	MeshName	=	Data/objects/framel.msh
+plank004:4147092@[MeshObject]
+	MeshName	=	Data/objects/plank.msh
+pickaxe003:4147102@[MeshObject]
+	MeshName	=	Data/objects/pickaxe.msh
+crate038:4147112@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cactusc001:4147113@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/cactusc.msh
+cratehuge175:4147114@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+houseb_stairs001:4147141@[MeshObject]
+	MeshName	=	Data/objects/buildings/houseb_stairs.msh
+barrel001:4147142@[MeshObject]
+	MeshName	=	Data/objects/barrel.msh
+cratemedium053:4147145@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+trough001:4147156@[MeshObject]
+	MeshName	=	Data/objects/trough.msh
+watertower002:4147160@[MeshObject]
+	MeshName	=	Data/objects/constructions/watertower/watertower.msh
+boxwooden001:4147168@[MeshObject]
+	MeshName	=	Data/objects/boxwooden.msh
+crate039:4147170@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+treelinden001:4147171@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treelinden.msh
+cratesmall003:4147703@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+smallwall001:4148252@[MeshObject]
+	MeshName	=	Data/objects/smallwall.msh
+tableb001:4148280@[MeshObject]
+	MeshName	=	Data/objects/furniture/tableb.msh
+nighttable013:4148281@[MeshObject]
+	MeshName	=	Data/objects/furniture/nighttable.msh
+chesta003:4148292@[MeshObject]
+	MeshName	=	Data/objects/chesta.msh
+cratehuge176:4148297@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge177:4148298@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+raft002:4148323@[PuzzleBlock]
+	fReleaseTime	=	0.300000
+	MeshName	=	Data/objects/raft.msh
+stagecoachdoors001:4148324@[MeshObject]
+	MeshName	=	Data/objects/stagecoachdoors.msh
+door_barn_left010:4148871@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+plankbiglong001:4148903@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+framef001:4148904@[MeshObject]
+	MeshName	=	Data/objects/framef.msh
+plankbiglong002:4148910@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+plankbiglong003:4148911@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+plankbiglong004:4148912@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+treedouble002:4148918@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treedouble.msh
+treelinden003:4148919@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treelinden.msh
+treelinden004:4148929@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treelinden.msh
+housei_bilboardbig_hope001:4149484@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/housei_bilboardbig_hope.msh
+plankbigshort003:4149512@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+door_blacksmith021:4149513@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+cratehuge178:4149514@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge179:4149515@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate041:4149516@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate042:4149517@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium054:4149518@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratemedium055:4149520@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+gravea004:4149522@[MeshObject]
+	MeshName	=	Data/objects/gravea.msh
+carpeta003:4149523@[MeshObject]
+	MeshName	=	Data/objects/carpeta.msh
+tablec003:4149541@[MeshObject]
+	MeshName	=	Data/objects/furniture/tablec.msh
+shelfdouble002:4149542@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+door_barn_left011:4149545@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+door_barn_right008:4149546@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+tablea001:4149547@[MeshObject]
+	MeshName	=	Data/objects/furniture/tablea.msh
+crate043:4149556@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate044:4149557@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+shelfdouble003:4149560@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble004:4149561@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble005:4149562@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble006:4149563@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble007:4149564@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble008:4149565@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble009:4149566@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble010:4149569@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble011:4149570@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble012:4149571@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble013:4149572@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble014:4149573@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble015:4149574@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble016:4149575@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+shelfdouble017:4149576@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+tablec004:4149577@[MeshObject]
+	MeshName	=	Data/objects/furniture/tablec.msh
+trough002:4149586@[MeshObject]
+	MeshName	=	Data/objects/trough.msh
+cratehuge180:4149593@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium056:4149594@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+crate045:4149596@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate046:4149597@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium058:4149613@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+case001:4149625@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+bathtub001:4149628@[MeshObject]
+	MeshName	=	Data/objects/bathtub.msh
+plankbiglong005:4149629@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+plankbiglong006:4149630@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+cratemedium059:4149631@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratemedium060:4149633@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+crossb002:4149635@[MeshObject]
+	MeshName	=	Data/objects/crossb.msh
+door_barn_right009:4150882@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+ladderhooka007:4150883@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+door_barn_right011:4150886@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+door_barn_right012:4150887@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+door_barn_left012:4150888@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+ladderhooka008:4150889@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+door_barn_left013:4150891@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+ladder001:4150892@[Ladder]
+	MeshName	=	Data/objects/ladder.msh
+door_barn_right013:4150895@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+door_barn_right014:4150896@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_right.msh
+ladderhooka009:4150897@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+bookshelfa001:4150902@[MeshObject]
+	MeshName	=	Data/objects/bookshelfa.msh
+crate047:4150903@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+wagonb001:4150910@[MeshObject]
+	MeshName	=	Data/objects/wagonb.msh
+cratesmall004:4150911@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+benchd005:4150919@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchd.msh
+benchc001:4150920@[MeshObject]
+	MeshName	=	Data/objects/furniture/benchc.msh
+cratehuge181:4150935@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+plankbiglong007:4150936@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+plankbiglong008:4150937@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+cratehuge182:4150940@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge183:4150941@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium061:4150943@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratehuge186:4150951@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium063:4150952@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+treedouble003:4150979@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treedouble.msh
+bathtub002:4150980@[MeshObject]
+	MeshName	=	Data/objects/bathtub.msh
+treefir002:4150986@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treefir.msh
+treefir003:4150988@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treefir.msh
+treelinden008:4150989@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treelinden.msh
+housei_bilboardbig_hope002:4152302@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/housei_bilboardbig_hope.msh
+latrinedoor_hope002:4152331@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+hutadoor_hope001:4152334@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+cratehuge187:4152338@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge188:4152339@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium064:4152340@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+treedouble004:4152344@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treedouble.msh
+treemountaina001:4152346@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+treemountaina002:4152348@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+treemountaina003:4152350@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+bookc001:4152376@[MeshObject]
+	MeshName	=	Data/objects/bookc.msh
+ladderhooka010:4152387@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+latrine_hope001:4152405@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrine_hope.msh
+bed003:4152410@[MeshObject]
+	MeshName	=	Data/objects/furniture/bed.msh
+plankbigshort004:4152427@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort005:4152428@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+houseb_stairs002:4153130@[MeshObject]
+	MeshName	=	Data/objects/buildings/houseb_stairs.msh
+plankbigshort006:4153131@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+cratemedium065:4153133@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+plankbigshort007:4153135@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbiglong009:4153137@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+plankbiglong010:4153138@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+cratesmall005:4153139@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+plankbigshort008:4153151@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort009:4153152@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+basketa001:4153854@[MeshObject]
+	MeshName	=	Data/objects/basketa.msh
+bencha001:4153856@[MeshObject]
+	MeshName	=	Data/objects/furniture/bencha.msh
+ladderhookc003:4153862@[Ladder]
+	MeshName	=	Data/objects/ladderhookc.msh
+bencha002:4153870@[LawmanASP]
+	m_fMass	=	30.000000
+	m_vMassTranslation	=	0.000000 0.500000 0.000000
+	MeshName	=	Data/objects/furniture/bencha.msh
+mountaincliffd6_hunt009:4153884@[MeshObject]
+	MeshName	=	Data/maps/camp/common/world/mountaincliffd6_hunt.msh
+jail_bilboardbig_hope001:4153892@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/jail_bilboardbig_hope.msh
+plankbiglong011:4153893@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+crate053:4153905@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate054:4153906@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge189:4153907@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge190:4153908@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium066:4153909@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+crate055:4153911@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate056:4153912@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium067:4153927@[LawmanASP]
+	m_fMass	=	70.000000
+	m_vMassTranslation	=	0.000000 -0.300000 0.000000
+	MeshName	=	Data/objects/cratemedium.msh
+piano002:4153929@[MeshObject]
+	MeshName	=	Data/objects/piano.msh
+plank020:4153930@[LawmanASP]
+	m_fMass	=	15.000000
+	MeshName	=	Data/objects/plank.msh
+plank021:4153932@[MeshObject]
+	MeshName	=	Data/objects/plank.msh
+treemountaina004:4153957@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+cratemedium068:4153974@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+treemountainb001:4153979@[DamagingObject]
+	MeshName	=	Data/nature/treemountainb.msh
+plankbigshort010:4153987@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort011:4153988@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+cratehuge192:4154724@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge193:4154725@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge194:4154727@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+bucket001:4154728@[MeshObject]
+	MeshName	=	Data/objects/bucket.msh
+door_barn_left016:4155477@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_barn_left.msh
+ladderhookb002:4155488@[Ladder]
+	MeshName	=	Data/objects/ladderhookb.msh
+framee001:4155503@[MeshObject]
+	MeshName	=	Data/objects/framee.msh
+treemountaina005:4155540@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+treemountainb002:4155541@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountainb.msh
+goldsack001:4155545@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack002:4155546@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack003:4155547@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack004:4155553@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack005:4155554@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+ladderhooka011:4155559@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+ladderhooka012:4155596@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+cratemedium069:4155600@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+billboardb004:4155605@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/billboardb.msh
+shelf001:4156378@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelf.msh
+shelfdouble018:4156380@[MeshObject]
+	MeshName	=	Data/objects/furniture/shelfdouble.msh
+desk001:4156382@[MeshObject]
+	MeshName	=	Data/objects/furniture/desk.msh
+cratehuge195:4156397@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratesmall007:4156399@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+cratemedium070:4156401@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+door_blacksmith023:4156409@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+privy001:4156420@[MeshObject]
+	MeshName	=	Data/objects/buildings/privy.msh
+goldbar001:4156421@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar002:4156422@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar003:4156423@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar004:4156424@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar005:4156425@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar006:4156442@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+signe008:4156447@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signe.msh
+signd012:4156448@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+cemeterysign002:4156451@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign003:4156452@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+chest002:4156453@[MeshObject]
+	MeshName	=	Data/objects/chest.msh
+chest003:4156454@[MeshObject]
+	MeshName	=	Data/objects/chest.msh
+chestb003:4156458@[MeshObject]
+	MeshName	=	Data/objects/chestb.msh
+goldbar007:4156461@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar008:4156462@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar009:4156463@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar010:4156464@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar011:4156465@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+chestb_insider001:4156469@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+goldbar012:4156471@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar013:4156472@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar014:4156473@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar015:4156474@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar016:4156475@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar017:4156476@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar018:4156477@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar019:4156478@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar020:4156479@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar021:4156480@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar022:4156481@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldtreasure_dangeon001:4156486@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldtreasure_dangeon.msh
+goldsack006:4156489@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack007:4156490@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack008:4156491@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack009:4156492@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldjugc002:4156505@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldjugc.msh
+chestb_insider002:4156509@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+goldsack010:4156513@[DamagingObject]
+	MeshName	=	Data/objects/goldsack.msh
+goldsack011:4156514@[DamagingObject]
+	MeshName	=	Data/objects/goldsack.msh
+goldcupa001:4156519@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldcupa.msh
+chesta_insider001:4156525@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+goldtreasure_dangeon002:4156527@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldtreasure_dangeon.msh
+goldapple001:4157329@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldapple.msh
+derringer002:4157360@[WeaponPistolDerringer]
+	nStartAmmoCount	=	0
+	bPhysicsDisableUntilTake	=	1
+	MeshName	=	Data/player/equipment/derringer/derringer.msh
+chesta_insider002:4157362@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+golddish001:4157364@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/golddish.msh
+goldbar023:4157365@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar024:4157366@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar025:4157367@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+whip_rolled001:4157371@[WeaponWhip]
+	MeshName	=	Data/player/equipment/whip/whip.msh
+chestb_insider003:4157378@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+volcanic003:4157380@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+goldsack012:4157381@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldjugb001:4157385@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldjugb.msh
+chesta_insider003:4157391@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+goldbar026:4157393@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar027:4157394@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar028:4157395@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar029:4157396@[NetFirstAid]
+	fHealthPercentAdding	=	90.000000
+	MeshName	=	Data/objects/goldbar.msh
+goldbar030:4157397@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar031:4157398@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+mexicanchurch001:4157404@[MeshObject]
+	MeshName	=	Data/objects/buildings/mexicanchurch.msh
+goldjuga001:4157406@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldjuga.msh
+healthbottle004:4157412@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+healthbottle005:4157414@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+healthbottle006:4157426@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	fRespawnOnUseDelay	=	90.000000
+	MeshName	=	Data/objects/healthbottle.msh
+healthbottle007:4157428@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+fenceplanksverylonga002:4158282@[MeshObject]
+	MeshName	=	Data/objects/constructions/fenceplanksverylonga.msh
+tenta001:4158298@[MeshObject]
+	MeshName	=	Data/objects/constructions/tenta.msh
+tentb001:4158299@[MeshObject]
+	MeshName	=	Data/objects/constructions/tentb.msh
+cratesmall008:4158309@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+cratesmall009:4158311@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+cratesmall010:4158313@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+bag001:4158320@[MeshObject]
+	MeshName	=	Data/objects/bag.msh
+skullman001:4158325@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman002:4158327@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+bone001:4158333@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone002:4158334@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone003:4158335@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone004:4158336@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone005:4158337@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone006:4158338@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bookf001:4158341@[LawmanASP]
+	m_fMass	=	5.000000
+	MeshName	=	Data/objects/bookf.msh
+lemant001:4158345@[WeaponPistolLemant]
+	MeshName	=	Data/player/equipment/lemant/lemant.msh
+chesta_insider004:4158350@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+skullman003:4158352@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman004:4158354@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman005:4158356@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman006:4158358@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman007:4158360@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman008:4158362@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman009:4158364@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman010:4158366@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+skullman011:4158368@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+winchesterscope001:4158384@[WeaponRifleWinchesterScope]
+	nStartAmmoCount	=	12
+	MeshName	=	Data/player/equipment/winchesterscope/winchesterscope.msh
+woodc001:4158391@[MeshObject]
+	MeshName	=	Data/objects/woodc.msh
+woodc002:4158393@[MeshObject]
+	MeshName	=	Data/objects/woodc.msh
+woodc003:4158395@[MeshObject]
+	MeshName	=	Data/objects/woodc.msh
+woodb001:4158397@[MeshObject]
+	MeshName	=	Data/objects/woodb.msh
+woodb002:4158399@[MeshObject]
+	MeshName	=	Data/objects/woodb.msh
+woodb003:4158401@[MeshObject]
+	MeshName	=	Data/objects/woodb.msh
+wooda001:4158403@[MeshObject]
+	MeshName	=	Data/objects/wooda.msh
+wooda002:4158405@[MeshObject]
+	MeshName	=	Data/objects/wooda.msh
+bookshelfa002:4158417@[MeshObject]
+	MeshName	=	Data/objects/bookshelfa.msh
+latrinedoor_hope003:4158421@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+hutadoor_hope002:4158422@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+treemountaina006:4158425@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+crate058:4158427@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge197:4158428@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+latrinedoor_hope004:4158443@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+hutadoor_hope003:4158445@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+plankbiglong012:4160224@[MeshObject]
+	MeshName	=	Data/objects/plankbiglong.msh
+ladderhooka013:4161130@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+cratemedium071:4161135@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+hutadoor_hope004:4161141@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+crate059:4161149@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium072:4161150@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+chesta_insider005:4161157@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+armorhelmet001:4161161@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/armorhelmet.msh
+coin_dungeon001:4161162@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon002:4161163@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon003:4161164@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon004:4161165@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon005:4161166@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon006:4161167@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+healthbottle008:4161171@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	m_eVolumeType	=	PYRAMID
+	MeshName	=	Data/objects/healthbottle.msh
+crate060:4161179@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate061:4161180@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge198:4161183@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge199:4161184@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge200:4161185@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge201:4161186@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+ladderhookc004:4163935@[Ladder]
+	MeshName	=	Data/objects/ladderhookc.msh
+carpetc001:4163937@[MeshObject]
+	MeshName	=	Data/objects/carpetc.msh
+carpetc002:4163938@[MeshObject]
+	MeshName	=	Data/objects/carpetc.msh
+graveb001:4163941@[MeshObject]
+	MeshName	=	Data/objects/graveb.msh
+graveb002:4163942@[MeshObject]
+	MeshName	=	Data/objects/graveb.msh
+jail_bilboardbig_hope002:4163945@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/jail_bilboardbig_hope.msh
+housei_bilboardbig_hope004:4163947@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/housei_bilboardbig_hope.msh
+ladderhookb003:4163948@[Ladder]
+	MeshName	=	Data/objects/ladderhookb.msh
+case002:4164878@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+case003:4164880@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+case004:4164882@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+crate064:4164884@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate065:4164885@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge202:4164886@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge203:4164887@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium073:4164888@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratemedium074:4164890@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+cratesmall011:4164892@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+broom001:4164909@[MeshObject]
+	MeshName	=	Data/objects/broom.msh
+bookshelfc001:4164911@[MeshObject]
+	MeshName	=	Data/objects/bookshelfc.msh
+bookshelfb001:4164912@[MeshObject]
+	MeshName	=	Data/objects/bookshelfb.msh
+blanketrolled001:4164913@[MeshObject]
+	MeshName	=	Data/objects/blanketrolled.msh
+rock_pipea_ride001:4164932@[MeshObject]
+	MeshName	=	Data/maps/borderland/common/world/rock_pipea_ride.msh
+stanchionb_scarp001:4164956@[MeshObject]
+	MeshName	=	Data/maps/scarp/common/objects/stanchionb_scarp.msh
+stanchion_scarp001:4165908@[MeshObject]
+	MeshName	=	Data/maps/scarp/common/objects/stanchion_scarp.msh
+cemeterysign004:4165911@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign005:4165912@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign006:4165913@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign007:4165914@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign008:4165915@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+door_blacksmith024:4165916@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+chimneya002:4165917@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/chimneya.msh
+chimneya003:4165918@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/chimneya.msh
+chimneyb001:4165920@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/chimneyb.msh
+cemeterysign009:4165921@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign010:4165922@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign011:4165923@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+cemeterysign012:4165924@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+latrinedoor_hope005:4165929@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+latrinedoor_hope006:4165930@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+scarecrow_hope002:4165934@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/scarecrow_hope.3da
+cratemedium075:4165962@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+ladderhooka014:4165969@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+ladderhooka015:4165975@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+cratehuge204:4166023@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+treemountaina007:4166026@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+treemountaina008:4166027@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/nature/treemountaina.msh
+commode001:4166033@[MeshObject]
+	MeshName	=	Data/objects/furniture/commode.msh
+carpetb003:4166046@[MeshObject]
+	MeshName	=	Data/objects/carpetb.msh
+carpetb004:4166047@[MeshObject]
+	MeshName	=	Data/objects/carpetb.msh
+cratemedium076:4167027@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+door_blacksmith025:4167032@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+gatling002:4167033@[StationaryCannon]
+	fMaxHAngle	=	80.000000
+	MeshName	=	Data/objects/gatling.msh
+gatling003:4167036@[StationaryCannon]
+	fMaxHAngle	=	80.000000
+	MeshName	=	Data/objects/gatling.msh
+door_blacksmith026:4167039@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+rock_pipea_ride002:4168033@[MeshObject]
+	MeshName	=	Data/maps/borderland/common/world/rock_pipea_ride.msh
+plankbigshort020:4168040@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort021:4168041@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort022:4168042@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort023:4168043@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort024:4168057@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort025:4168058@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort026:4168064@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort027:4168065@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+ladderhooka017:4169068@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+plankbigshort028:4169077@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort029:4169078@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort030:4169079@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort031:4169080@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort032:4169098@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort033:4169099@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort034:4169100@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort035:4169101@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+ladderhooka018:4169113@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+plankbigshort036:4169119@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort037:4169120@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+chessboardblocka_dungeon002:4169139@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblocka_dungeon.msh
+chessboardblockb_dungeon001:4169140@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblockb_dungeon.msh
+chessboardkillera_dungeon001:4169147@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardkillera_dungeon.msh
+cratehuge205:4169152@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cemeterysign013:4169153@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+ladderhookc005:4169158@[Ladder]
+	MeshName	=	Data/objects/ladderhookc.msh
+signe009:4169165@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signe.msh
+signd014:4169166@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+cratehuge206:4169169@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate066:4169170@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+chessboardkillera_dungeon002:4169173@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardkillera_dungeon.msh
+crate067:4169184@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+railbridge002:4169189@[MeshObject]
+	MeshName	=	Data/objects/constructions/railbridge.msh
+billy001:4169190@[LethalObject]
+	MeshName	=	Data/player/billy/billy.msh
+shadowbox005:4170231@[WaterCurrent]
+	m_fSpeed	=	20.000000
+	MeshName	=	Data/interface/shadowbox.3da
+shadowbox006:4170234@[WaterCurrent]
+	m_fSpeed	=	20.000000
+	MeshName	=	Data/interface/shadowbox.3da
+shadowbox007:4170237@[WaterCurrent]
+	m_fSpeed	=	20.000000
+	MeshName	=	Data/interface/shadowbox.3da
+plankbigshort038:4170278@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort039:4170279@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort040:4170280@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort041:4170281@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort042:4170282@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort043:4170283@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort044:4170284@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort045:4170285@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort046:4170286@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort047:4170287@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort048:4170288@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort049:4170289@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort050:4170290@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort051:4170291@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort052:4170292@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort053:4170293@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+skullman012:4171411@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+bone007:4171413@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone008:4171414@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone009:4171415@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+deerskull001:4171423@[MeshObject]
+	MeshName	=	Data/objects/deerskull.msh
+chessboardblocka_dungeon003:4171437@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblocka_dungeon.msh
+chessboardblockb_dungeon002:4171438@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblockb_dungeon.msh
+chessboardblocka_dungeon004:4171439@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblocka_dungeon.msh
+chessboardblockb_dungeon003:4171440@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblockb_dungeon.msh
+chessboardblockb_dungeon004:4172501@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/world/chessboardblockb_dungeon.msh
+basketa002:4172539@[MeshObject]
+	MeshName	=	Data/objects/basketa.msh
+cratehuge207:4172544@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratemedium077:4172545@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+churchcross003:4173642@[MeshObject]
+	MeshName	=	Data/objects/churchcross.msh
+coffin#003:4173652@[MeshObject]
+	MeshName	=	Data/objects/coffin#01.msh
+skullman013:4173654@[MeshObject]
+	MeshName	=	Data/nature/skullman.msh
+bone010:4173656@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone011:4173657@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone012:4173658@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone013:4173659@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+bone014:4173660@[MeshObject]
+	MeshName	=	Data/nature/bone.msh
+barrelclosed005:4173678@[MeshObject]
+	MeshName	=	Data/objects/barrelclosed.msh
+chesta_insider006:4173681@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+healthbottle009:4173683@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	m_eJointPos	=	RIGHT
+	MeshName	=	Data/objects/healthbottle.msh
+armor001:4173685@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/maps/juarez/dungeons/objects/armor.msh
+chandeliera001:4173687@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/chandeliera.msh
+volcanic004:4173689@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+coffin#005:4173713@[MeshObject]
+	MeshName	=	Data/objects/coffin#01.msh
+coffin#006:4173715@[MeshObject]
+	MeshName	=	Data/objects/coffin#02.msh
+bayonet001:4173730@[WeaponKnife]
+	MeshName	=	Data/interface/bbox.3da
+wardrobe015:4173736@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+goldsack013:4173738@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldsack014:4173739@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+goldbar032:4173740@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+framen001:4173747@[MeshObject]
+	MeshName	=	Data/objects/framen.msh
+goldtreasure_dangeon003:4173752@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/goldtreasure_dangeon.msh
+coin_dungeon007:4173755@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon008:4173756@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon009:4173757@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon010:4173758@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+framef002:4173761@[LawmanASP]
+	m_fMass	=	10.000000
+	m_bWakeUpEnabled	=	0
+	m_eJointType	=	FIXED
+	m_fJointBreakHealth	=	50.000000
+	MeshName	=	Data/objects/framef.msh
+tablea002:4173767@[MeshObject]
+	MeshName	=	Data/objects/furniture/tablea.msh
+map002:4173769@[MeshObject]
+	MeshName	=	Data/objects/map.msh
+bayonet002:4173770@[MeshObject]
+	MeshName	=	Data/player/equipment/bayonet/bayonet.msh
+goldsack015:4173776@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/goldsack.msh
+coin_dungeon011:4173780@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon012:4173781@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon013:4173782@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+framek001:4173785@[MeshObject]
+	MeshName	=	Data/objects/framek.msh
+framej002:4173787@[MeshObject]
+	MeshName	=	Data/objects/framej.msh
+frameg001:4173789@[MeshObject]
+	MeshName	=	Data/objects/frameg.msh
+railingc001:4173798@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/buildingdetails/railingc.msh
+signd015:4173802@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/signd.msh
+railingc002:4173803@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/buildingdetails/railingc.msh
+railinga_saloon001:4173809@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/maps/hope/saloon/objects/railinga_saloon.msh
+crate068:4173810@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium079:4173812@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+railingb007:4173818@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/buildingdetails/railingb.msh
+railinga001:4173821@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/objects/buildingdetails/railinga.msh
+rollingrock001:4173826@[MeshObject]
+	MeshName	=	Data/nature/rollingrock.msh
+rock003:4173831@[MeshObject]
+	MeshName	=	Data/nature/rock1.msh
+rock004:4173832@[MeshObject]
+	MeshName	=	Data/nature/rock2.msh
+rock005:4173833@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock007:4173837@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock008:4173838@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock009:4173839@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+logb_hijack001:4175005@[MeshObject]
+	MeshName	=	Data/maps/ranch/hijack/objects/logb_hijack.msh
+rock015:4175013@[MeshObject]
+	MeshName	=	Data/nature/rock2.msh
+treasure_chamber_doorl_dungeons001:4175021@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/treasure_chamber_doorl_dungeons.msh
+treasure_chamber_doorr_dungeons001:4175022@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/treasure_chamber_doorr_dungeons.msh
+stoneball_dungeons001:4175023@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/maps/juarez/dungeons/objects/stoneball_dungeons.msh
+treasure_chamber_doorl_dungeons002:4175026@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/treasure_chamber_doorl_dungeons.msh
+cratehuge208:4175029@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+cratehuge209:4175030@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+clock002:4175035@[MeshObject]
+	MeshName	=	Data/objects/clock.msh
+cratesmall012:4175037@[MeshObject]
+	MeshName	=	Data/objects/cratesmall.msh
+housei_bilboardbig_hope005:4175044@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/housei_bilboardbig_hope.msh
+barnb_hope003:4175049@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/barnb_hope.msh
+cemeterysign014:4175050@[MeshObject]
+	MeshName	=	Data/objects/cemeterysign.msh
+ladderhooka019:4175053@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+ladderhookb004:4175057@[Ladder]
+	MeshName	=	Data/objects/ladderhookb.msh
+plankold001:4175062@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold002:4175063@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankbigshort054:4175064@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort055:4175065@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort056:4175066@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+plankbigshort057:4175067@[MeshObject]
+	MeshName	=	Data/objects/plankbigshort.msh
+crate069:4175073@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate070:4175074@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate071:4175075@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+chestb_insider004:4175076@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+holybible001:4175078@[WeaponBible]
+	MeshName	=	Data/player/equipment/holybible/holybible.msh
+healthbottle010:4175085@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+crown001:4175087@[LawmanASP]
+	MeshName	=	Data/maps/juarez/dungeons/objects/crown.msh
+armorarmleft001:4175088@[DamagingObject]
+	fMinDamage	=	1.000000
+	fMaxDamage	=	2.000000
+	fDamagingInterval	=	2.000000
+	MeshName	=	Data/maps/juarez/dungeons/objects/armorarmleft.msh
+rock016:4175096@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock018:4175098@[MeshObject]
+	MeshName	=	Data/nature/rock5.msh
+rock019:4175099@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock020:4175102@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock021:4175103@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock022:4175106@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+winchesterscope002:4175113@[WeaponRifleWinchesterScope]
+	MeshName	=	Data/player/equipment/winchesterscope/winchesterscope.msh
+ammolong001:4175114@[AmmoRifle]
+	MeshName	=	Data/objects/ammolong.msh
+ammoshort001:4175116@[AmmoPistol]
+	MeshName	=	Data/objects/ammoshort.msh
+holybible002:4175121@[WeaponBible]
+	MeshName	=	Data/player/equipment/holybible/holybible.msh
+skinframe001:4175127@[MeshObject]
+	MeshName	=	Data/objects/skinframe.msh
+housei_bilboardbig_hope006:4175131@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/housei_bilboardbig_hope.msh
+rock023:4175132@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+trough003:4175141@[MeshObject]
+	MeshName	=	Data/objects/trough.msh
+rock024:4175144@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock025:4175145@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+case005:4175146@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+case006:4175148@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+case007:4175150@[MeshObject]
+	MeshName	=	Data/objects/case.msh
+crate072:4175160@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium080:4175161@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+barnb_hope004:4175164@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/barnb_hope.msh
+crate073:4175165@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+chestb_insider005:4175166@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+lemant002:4175171@[WeaponPistolLemant]
+	MeshName	=	Data/player/equipment/lemant/lemant.msh
+lemant003:4175172@[WeaponPistolLemant]
+	MeshName	=	Data/player/equipment/lemant/lemant.msh
+barnb_hope005:4175177@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/barnb_hope.msh
+healthbottle011:4175178@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+cratemedium081:4175192@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+ladderhookc006:4175201@[Ladder]
+	MeshName	=	Data/objects/ladderhookc.msh
+rock026:4175209@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock027:4175210@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+crate075:4175211@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratemedium082:4175220@[MeshObject]
+	MeshName	=	Data/objects/cratemedium.msh
+ladderhooka020:4177646@[Ladder]
+	MeshName	=	Data/objects/ladderhooka.msh
+door_blacksmith030:4177678@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+gatling004:4177680@[StationaryCannon]
+	fMaxHAngle	=	80.000000
+	MeshName	=	Data/objects/gatling.msh
+door_blacksmith031:4177685@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith032:4177686@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith033:4177687@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith034:4177688@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+door_blacksmith035:4177689@[MeshObject]
+	MeshName	=	Data/objects/buildingdetails/door_blacksmith.msh
+chestb_insider006:4177694@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+tomahawk001:4177696@[WeaponHatchet]
+	MeshName	=	Data/player/equipment/tomahawk/tomahawk.msh
+tomahawk002:4177699@[WeaponHatchet]
+	MeshName	=	Data/player/equipment/tomahawk/tomahawk.msh
+mp_fakesheriff001:4177701@[AmmoDynamite]
+	MeshName	=	Data/player/mp_fakesheriffs/mp_fakesheriff.msh
+scarecrow_hope003:4177707@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/scarecrow_hope.3da
+scarecrow_hope004:4177708@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/scarecrow_hope.3da
+scarecrow_hope005:4177709@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/scarecrow_hope.3da
+scarecrow_hope008:4177712@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/scarecrow_hope.3da
+basketa004:4177717@[MeshObject]
+	MeshName	=	Data/objects/basketa.msh
+chestb_insider007:4177722@[Locker]
+	sDoorElementMask	=	lid
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chestb_insider.msh
+volcanic005:4177724@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+volcanic006:4177725@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+goldbar033:4177730@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar034:4177731@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar035:4177732@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+healthbottle012:4177735@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+bowl001:4177744@[LawmanASP]
+	m_eVolumeType	=	CYLINDER
+	m_fMass	=	5.000000
+	MeshName	=	Data/objects/bowl.msh
+derringer003:4178999@[WeaponPistolDerringer]
+	nStartAmmoCount	=	2
+	bPhysicsDisableUntilTake	=	1
+	MeshName	=	Data/player/equipment/derringer/derringer.msh
+chesta_insider007:4179003@[Locker]
+	sDoorElementMask	=	lid
+	sPlaceholdersMask	=	chesta_insider
+	ActiveElement	=	lid01
+	eIconUse	=	_OPEN
+	MeshName	=	Data/objects/chesta_insider.msh
+volcanic008:4179005@[WeaponPistolVolcanic]
+	MeshName	=	Data/player/equipment/volcanic/volcanic.msh
+healthbottle013:4179009@[NetFirstAid]
+	fHealthPercentAdding	=	99.000000
+	MeshName	=	Data/objects/healthbottle.msh
+coin_dungeon014:4179013@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon015:4179014@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon016:4179015@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+coin_dungeon017:4179016@[MeshObject]
+	MeshName	=	Data/maps/juarez/dungeons/objects/coin_dungeon.msh
+goldbar036:4179019@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar037:4179020@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+goldbar038:4179021@[MeshObject]
+	MeshName	=	Data/objects/goldbar.msh
+SoundEmitterSimple003:4184034@[SoundEmitterSimple]
+	sSoundName	=	Data/mapsnet/gravity/music/now.ogg
+	fMinDistance	=	50.000000
+SoundEmitterSimple004:4184036@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/ambient/goat_01.wav
+	fMinDistance	=	90.000000
+	fVolume	=	50.000000
+SoundEmitterSimple005:4184038@[SoundEmitterSimple]
+	sSoundName	=	Data/mapsnet/gravity/music/no.ogg
+	fMinDistance	=	30.000000
+SoundEmitterSimple006:4184040@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/ambient/wind/wind_canyon.wav
+	fMinDistance	=	200.000000
+	fVolume	=	0.500000
+SoundEmitterSimple007:4184042@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/ambient/wind/wind_03_loop_in_city.wav
+winchesterscope003:4184048@[MeshObject]
+	MeshName	=	Data/player/equipment/winchesterscope/winchesterscope.msh
+ammolong002:4184049@[AmmoRifle]
+	MeshName	=	Data/objects/ammolong.msh
+ammolong003:4184051@[AmmoRifle]
+	MeshName	=	Data/objects/ammolong.msh
+ammolong004:4184053@[AmmoRifle]
+	MeshName	=	Data/objects/ammolong.msh
+secret001:4184059@[MeshObject]
+	MeshName	=	Data/objects/secret/secret.msh
+SoundEmitterSimple008:4184062@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/mission_objective.wav
+	fMinDistance	=	200.000000
+SoundEmitterSimple009:4184064@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/ambient/cows.wav
+	fMinDistance	=	100.000000
+SoundEmitterSimple010:4184066@[SoundEmitterSimple]
+	sSoundName	=	Data/sounds/ambient/cat_01.wav
+	fMinDistance	=	100.000000
+mp_mexicana001:4197267@[WeaponDynamiteStick]
+	MeshName	=	Data/player/equipment/dynamite/dynamite.msh
+plankold003:4202675@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold004:4202703@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+crate076:4202704@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+plankold005:4202707@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold006:4202708@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold007:4202709@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold008:4202710@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold009:4202711@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold010:4202712@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold011:4202715@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold012:4202716@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold013:4202717@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold014:4202718@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold015:4202719@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold016:4202720@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold017:4202721@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold018:4202722@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold019:4202723@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold020:4202724@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold021:4202727@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold022:4202728@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold023:4202729@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold024:4202730@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+crate077:4202735@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+plankold025:4202738@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold026:4202739@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold027:4202740@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold028:4202741@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+crate078:4202744@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+crate079:4202745@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+cratehuge210:4202748@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+crate080:4202749@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+rock028:4202752@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+plankold029:4202755@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold030:4202756@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold031:4202757@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold032:4202758@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold033:4202761@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold034:4202762@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold036:4202766@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold037:4202769@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold038:4202770@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold039:4202773@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold040:4202774@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold041:4202777@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold042:4202778@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold043:4202781@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold044:4202782@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+rock029:4202785@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+crate082:4202791@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+latrinedoor_hope007:4202810@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+cratehuge211:4204075@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+screen002:4204106@[MeshObject]
+	MeshName	=	Data/objects/furniture/screen.msh
+churchauditorium003:4204109@[MeshObject]
+	MeshName	=	Data/objects/churchauditorium.msh
+waterholdbarrel001:4204119@[MeshObject]
+	MeshName	=	Data/objects/constructions/waterholdbarrel.msh
+desk002:4204121@[MeshObject]
+	MeshName	=	Data/objects/furniture/desk.msh
+rock032:4204131@[MeshObject]
+	MeshName	=	Data/nature/rock1.msh
+rock033:4204132@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock034:4204133@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+rock035:4204134@[MeshObject]
+	MeshName	=	Data/nature/rock3.msh
+wardrobe016:4204137@[MeshObject]
+	MeshName	=	Data/objects/furniture/wardrobe.msh
+cratehuge212:4204138@[MeshObject]
+	MeshName	=	Data/objects/cratehuge.msh
+carpeta004:4204141@[MeshObject]
+	MeshName	=	Data/objects/carpeta.msh
+carpeta005:4204142@[MeshObject]
+	MeshName	=	Data/objects/carpeta.msh
+rock036:4204145@[MeshObject]
+	MeshName	=	Data/nature/rock7.msh
+carpetc003:4204149@[MeshObject]
+	MeshName	=	Data/objects/carpetc.msh
+carpetc004:4204150@[MeshObject]
+	MeshName	=	Data/objects/carpetc.msh
+hutadoor_hope005:4204153@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope006:4204156@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope007:4204159@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope008:4204162@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope009:4204165@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope011:4204173@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope012:4204176@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope013:4204177@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope014:4204178@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope015:4204181@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope016:4204184@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope017:4204187@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+latrinedoor_hope008:4204188@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+latrinedoor_hope009:4204189@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+plankold053:4204192@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold054:4204193@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold055:4204196@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold056:4204197@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+carpetb005:4204200@[MeshObject]
+	MeshName	=	Data/objects/carpetb.msh
+carpetb006:4204201@[MeshObject]
+	MeshName	=	Data/objects/carpetb.msh
+latrinedoor_hope010:4204204@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+latrinedoor_hope011:4204207@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+latrinedoor_hope012:4204208@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+latrinedoor_hope013:4204211@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+hutadoor_hope018:4204214@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+plankold057:4204217@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold058:4204218@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold059:4204219@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold060:4204220@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold061:4204223@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+plankold062:4204226@[MeshObject]
+	MeshName	=	Data/objects/plankold.msh
+hutadoor_hope019:4204229@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope020:4205529@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope021:4205534@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope022:4205541@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+latrinedoor_hope014:4205548@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/latrinedoor_hope.msh
+hutadoor_hope025:4205551@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+crate083:4205554@[MeshObject]
+	MeshName	=	Data/objects/crate.msh
+hutadoor_hope026:4206867@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope027:4206868@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope028:4209485@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+hutadoor_hope029:4209488@[MeshObject]
+	MeshName	=	Data/maps/hope/common/objects/hutadoor_hope.msh
+gravity_house01:4210786@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_house01.msh
+gravity_house02:4210792@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_house02.msh
+gravity_house03:4210800@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_house03.msh
+gravity_platform01:4210804@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_platform01.msh
+gravity_house04:4210814@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_house04.msh
+gravity_house05:4210818@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_house05.msh
+gravity_house06:4210824@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_house06.msh
+gravity_platform02:4210828@[MeshObject]
+	MeshName	=	Data/mapsnet/gravity/Meshes/gravity_platform02.msh
+rockshelfd002:4210850@[MeshObject]
+	MeshName	=	Data/world/rocks/rockshelfd.msh
+shadowcasterplane001:4212807@[CModelObject]
+	MeshName	=	Data/interface/shadowcasterplane.msh
+sensor_Track001:4213757@[sensor_Track]
+	cSide	=	_PLAYER
+	[cObject] bag002:4213786@[LawmanASP]
+	[cOnEnter:0] act_Wait03:4218701@[act_Wait]
+		fDelay	=	4.000000
+	[cOnEnter:1] act_Run02:4218702@[act_Run]
+		[cChain] ActionChain01:4218694@[ActionChain]
+	[cOnEnter:2] act_Run01:4219691@[act_Run]
+		[cChain] ActionChain02:4219688@[ActionChain]
+	nOnEnterTimes	=	1
+	nOnLeaveTimes	=	1
+bag002:4213786@[LawmanASP]
+	m_eVolumeType	=	PYRAMID
+	m_fMass	=	10.000000
+	m_vMassTranslation	=	0.000000 -0.500000 0.000000
+	MeshName	=	Data/objects/bag.msh
+Music01:4213789@[Music]
+	sMusic	=	Data/mapsnet/gravity/music/missionfailedmy.ogg
+	nLoops	=	-1
+	fFadeOutTime	=	0.000000
+ActionChain01:4218694@[ActionChain]
+	[aChain:0] act_Music01:4218695@[act_Music]
+		[cMusic] Music01:4213789@[Music]
+		fFadeOutTime	=	0.000000
+		cType	=	_START
+	[aChain:1] act_Wait01:4218696@[act_Wait]
+		fDelay	=	57.000000
+	[aChain:2] act_Music02:4218697@[act_Music]
+		[cMusic] Music01:4213789@[Music]
+		fFadeOutTime	=	0.000000
+		cType	=	_STOP
+	[aChain:3] act_Wait02:4218699@[act_Wait]
+		fDelay	=	2.000000
+	[aChain:4] act_Run01:4218700@[act_Run]
+		[cChain] ActionChain01:4218694@[ActionChain]
+ActionChain02:4219688@[ActionChain]
+	[aChain:0] act_Wait01:4219689@[act_Wait]
+		fDelay	=	205.000000
+	[aChain:1] act_Music01:4219690@[act_Music]
+		[cMusic] Music01:4213789@[Music]
+		cType	=	_STOP

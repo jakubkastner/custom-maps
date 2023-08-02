@@ -1,0 +1,52 @@
+GameModeDM001:4197317@[GameModeDM]
+	nFragsLimit	=	20
+	fRespawnTime	=	3.000000
+	bUseFirstAid	=	1
+Dot001:4197318@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot002:4197319@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot003:4197320@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot004:4197321@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot005:4197322@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot006:4197323@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot007:4197324@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+Dot008:4197325@[SpawnPoint]
+	cTeam	=	_NONE
+	MeshName	=	Data/Interface/Dot.3DA
+dot001:4197326@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot002:4197327@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot003:4197328@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot004:4197329@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot005:4197330@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot006:4197331@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot007:4197332@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot008:4197333@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot009:4197334@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot010:4197335@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot011:4197336@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
+dot012:4197337@[SpawnPoint]
+	MeshName	=	Data/interface/dot.3da
